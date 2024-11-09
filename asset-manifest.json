@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/App_barberia/static/css/main.db414123.css",
+    "main.js": "/App_barberia/static/js/main.de879d95.js",
+    "static/media/bg3.jpg": "/App_barberia/static/media/bg3.515484bb73bc095da63c.jpg",
+    "static/media/foto-barber.jpeg": "/App_barberia/static/media/foto-barber.d4302a61ec7c377d83d9.jpeg",
+    "static/media/barber1-removebg-preview.png": "/App_barberia/static/media/barber1-removebg-preview.049d1068521d4076832a.png",
+    "index.html": "/App_barberia/index.html",
+    "main.db414123.css.map": "/App_barberia/static/css/main.db414123.css.map",
+    "main.de879d95.js.map": "/App_barberia/static/js/main.de879d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db414123.css",
+    "static/js/main.de879d95.js"
+  ]
+}
