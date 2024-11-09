@@ -17,6 +17,7 @@
     "firebase": "^9.9.2",
     "formik": "^2.2.9",
     "framer-motion": "^6.5.1",
+    "gh-pages": "^6.2.0",
     "json-server": "^0.17.0",
     "postcss": "^8.4.16",
     "postcss-loader": "^7.0.1",
@@ -35,13 +36,15 @@
     "web-vitals": "^2.1.0",
     "yup": "^0.32.11"
   },
-  "homepage": "http://turnero.pulpol.com.ar/",
+  "homepage": "https://alemorillo7.github.io/App_barberia",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "fake-api": "json-server --watch src/api/db.json --port 5000"
+    "fake-api": "json-server --watch src/api/db.json --port 5000",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
