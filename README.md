@@ -1,6 +1,6 @@
 # Turnero
 
-Deploy: [Turnero](https://turnero.pulpol.com.ar/turnero).
+Deploy: [Turnero](https://alemorillo7.github.io/App_barberia/).
 
 ## Vista de Administrador:
 
@@ -8,7 +8,7 @@ Email o Usuario:
 admin@admin.com
 
 Teléfono:
-admin
+123456
 
 Credencial:
 admin
